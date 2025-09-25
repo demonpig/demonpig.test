@@ -1,0 +1,5 @@
+---
+
+depedencies:
+  python: meta/ee-reqiurements.txt
+  system: meta/ee-bindep.txt
